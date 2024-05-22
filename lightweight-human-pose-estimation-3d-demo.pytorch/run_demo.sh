@@ -1,0 +1,1 @@
+python demo.py --model human-pose-estimation-3d.pth --video data/ym.mp4
